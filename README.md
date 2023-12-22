@@ -9,7 +9,6 @@ Features:
 -Results are interactively displayed among separate components.
 
 Project Components:
-
 1-TemperatureConverter:
 
 -The main component includes functionality for entering and managing Celsius values.
