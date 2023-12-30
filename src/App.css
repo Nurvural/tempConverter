@@ -4,18 +4,19 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  padding: 10px; 
+  padding: 10px;
 }
 
 h1 {
-  font-size: 40px; 
+  font-size: 50px;
+  color: #222233;
 }
 
 input {
   margin-bottom: 10px;
-  width: 100%; 
+  width: 100%;
   min-height: 30px;
-  border: 2px solid #0f476d;
+  border: 2px solid #6c63b7;
   border-radius: 5px;
   background-color: white;
   font-family: "Poppins", sans-serif;
@@ -24,10 +25,10 @@ input {
 }
 
 button {
-  width: 100%; 
+  width: 100%;
   margin-bottom: 10px;
   padding: 8px;
-  background-color: #111369;
+  background-color: #3c3670;
   color: white;
   border: none;
   border-radius: 4px;
@@ -35,13 +36,14 @@ button {
 }
 
 button:hover {
-  background-color: #111369;
+  background-color: #6c63b7;
 }
 
 .TemperatureResult {
   margin-top: 10px;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: bold;
+  color: #222233;
 }
 @media only screen and (max-width: 600px) {
   h1 {
